@@ -1,0 +1,7 @@
+every function/component returns JSX
+
+
+to use state, u need to use hook
+
+
+useEffect:  anytime we want to implement side effect
